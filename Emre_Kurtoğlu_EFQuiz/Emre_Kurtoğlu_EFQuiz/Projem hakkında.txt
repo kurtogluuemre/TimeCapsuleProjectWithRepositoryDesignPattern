@@ -1,0 +1,21 @@
+Projem genel yapısı olarak Bir Console Application, içeriğini 3' e bölerek bir repository design pattern kurdum.
+Core 
+  ->Abstracts
+  ->Enums
+  ->Helpers
+  ->Models
+Repo
+  ->Concretes
+  ->Contracts
+  ->Contexts
+  ->Configs
+  ->Migrations
+  ->UnitOfWorks
+Service
+  ->Concretes
+  ->Contracts
+  ->Expections
+  ->UnitOfWorks
+
+
+Proje içerisinde her sayfa içerisinde yorum satırlarım mevcut ordan projemde neler yaptığımı anlatıyorum.
